@@ -12,7 +12,7 @@ Welcome to my project portfolio! I am an AI/ML Engineer with 11+ years of indust
 - ☁️ Azure AI Services
 
 ### 📄 Resume
-You can find my updated resume here: [Swarna_Nagendra_AI_Resume.pdf](./Swarna_Nagendra_Resume.pdf)
+You can find my updated resume here: Swarna-Nagendra-Resume.pdf
 
 ### 🔜 Upcoming Projects
 I will be adding hands-on AI/ML projects soon:
